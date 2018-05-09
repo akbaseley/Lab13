@@ -1,0 +1,7 @@
+C:\Users\akbas\Documents\GrandCircus\Practice\Practice_Lab13\Practice_Lab13\bin\Debug\Practice_Lab13.exe.config
+C:\Users\akbas\Documents\GrandCircus\Practice\Practice_Lab13\Practice_Lab13\bin\Debug\Practice_Lab13.exe
+C:\Users\akbas\Documents\GrandCircus\Practice\Practice_Lab13\Practice_Lab13\bin\Debug\Practice_Lab13.pdb
+C:\Users\akbas\Documents\GrandCircus\Practice\Practice_Lab13\Practice_Lab13\obj\Debug\Practice_Lab13.csprojResolveAssemblyReference.cache
+C:\Users\akbas\Documents\GrandCircus\Practice\Practice_Lab13\Practice_Lab13\obj\Debug\Practice_Lab13.csproj.CoreCompileInputs.cache
+C:\Users\akbas\Documents\GrandCircus\Practice\Practice_Lab13\Practice_Lab13\obj\Debug\Practice_Lab13.exe
+C:\Users\akbas\Documents\GrandCircus\Practice\Practice_Lab13\Practice_Lab13\obj\Debug\Practice_Lab13.pdb
